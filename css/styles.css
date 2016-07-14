@@ -1,0 +1,15 @@
+#mainContain{
+  width:570px;
+}
+
+
+div[class ^="box"]{
+  height:50px;
+  width:50px;
+  border:1px solid #F1F1F1;
+  float:left;
+}
+
+div.rightClick[class ^="box"]{
+  border-right:1px solid #ff0000;
+}

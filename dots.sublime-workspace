@@ -1,0 +1,420 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"crea",
+				"createBrowserHistory"
+			],
+			[
+				"St",
+				"StorePicker"
+			],
+			[
+				"Reac",
+				"ReactRouter"
+			],
+			[
+				"S",
+				"StorePicker"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 227.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"uplo",
+				"SFTP: Upload File"
+			],
+			[
+				"switch",
+				"SFTP: Switch Remote Mapping…"
+			],
+			[
+				"edit",
+				"SFTP: Edit Remote Mapping…"
+			],
+			[
+				"SFTP",
+				"SFTP: Browse Server…"
+			],
+			[
+				"swap",
+				"SFTP: Switch Remote Mapping…"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git q",
+				"Git: Quick Commit"
+			],
+			[
+				"ftp upl",
+				"SFTP: Upload File"
+			],
+			[
+				"ftp sw",
+				"SFTP: Switch Remote Mapping…"
+			],
+			[
+				"sublimelint cs",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"local",
+				"Local History: Open"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git commit",
+				"Git: Quick Commit"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"mapping",
+				"SFTP: Switch Remote Mapping…"
+			],
+			[
+				"alterna",
+				"SFTP: Add Alternate Remote Mapping…"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git gui",
+				"Git (SideBarGit): Git GUI"
+			],
+			[
+				"setup",
+				"SFTP: Setup Server…"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"remote",
+				"SFTP: Map to Remote…"
+			],
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"browse",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"bookm",
+				"Bookmarks: Toggle"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"****",
+			"clear",
+			"git --help",
+			"git",
+			"git push",
+			"git push origin master",
+			"ls",
+			"pwd",
+			"clear",
+			"emmet",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/erichess/Projects/dots"
+	],
+	"file_history":
+	[
+		"/Users/erichess/Projects/ivars_redux/libraries/phpmailer/phpmailer.php",
+		"/Users/erichess/Projects/ivars_redux/libraries/joomla/table/observer.php",
+		"/Users/erichess/Projects/ivars_redux/sftp-config.json",
+		"/Users/erichess/Projects/ivars_redux/js/scripts.js",
+		"/Users/erichess/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/smallbatch",
+		"/Users/erichess/Projects/bigbeeryear/views/create/beer.php",
+		"/Users/erichess/Projects/ava/index.php",
+		"/Users/erichess/Projects/ivars_redux/css/file.less",
+		"/Users/erichess/Projects/ivars_redux/css/eric_styles.css",
+		"/Users/erichess/Library/Application Support/Sublime Text 3/Packages/Gutter Color/GutterColor.sublime-settings",
+		"/Users/erichess/Library/Application Support/Sublime Text 3/Packages/User/GutterColor.sublime-settings",
+		"/Users/erichess/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/erichess/Library/Application Support/Sublime Text 3/.sublime/Local History/Users/erichess/Projects/ivars_redux/css/eric_styles-20160614204359.css",
+		"/Users/erichess/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/Users/erichess/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/erichess/Projects/ivars_redux/sftp-config-alt.json",
+		"/Users/erichess/Library/Application Support/Sublime Text 3/Packages/SideBarGit/SideBarGit.sublime-settings",
+		"/Users/erichess/Library/Application Support/Sublime Text 3/Packages/User/SideBarGit.sublime-settings",
+		"/Users/erichess/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/erichess/Projects/ivars_redux/sftp-config_live.json",
+		"/Users/erichess/Projects/ivars_redux/css/sftp-config.json",
+		"/Users/erichess/Library/Application Support/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/erichess/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/ivarsLive",
+		"/Users/erichess/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/Users/erichess/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/erichess/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/erichess/Library/Application Support/Sublime Text 3/Packages/auto_close/Default (OSX).sublime-keymap",
+		"/Users/erichess/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/erichess/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/erichess/Projects/reactProjectWes/catch-of-the-day/gulpfile.js",
+		"/Users/erichess/Projects/reactProjectWes/04 - Writing HTML with JSX/scripts/main.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"promo",
+			"scripts.js",
+			">\n",
+			"form",
+			"/>",
+			"/>\n",
+			"storeId",
+			"> ",
+			"<form>",
+			"> ",
+			"form",
+			"<form>",
+			"render: function()",
+			">\n",
+			"form",
+			"hkhusad"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Router\nRoute\nNavigation"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 100.0
+	},
+	"output.git-pull":
+	{
+		"height": 100.0
+	},
+	"output.git-push":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "dots.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"eric_s",
+				"css/eric_styles.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projects/bigbeeryear/index.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 67.0,
+		"last_filter": "validateAddress",
+		"selected_items":
+		[
+			[
+				"validateAddress",
+				"validateAddress"
+			],
+			[
+				"onBeforeLoad",
+				"onBeforeLoad"
+			],
+			[
+				"slidePr",
+				"slidePromos"
+			],
+			[
+				"ourstory",
+				"ourStoryHandler"
+			]
+		],
+		"width": 807.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
