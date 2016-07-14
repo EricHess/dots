@@ -47,6 +47,8 @@ var clicking = function(){
   $this.enabledBox[i].addEventListener("click", function(e){
    console.log(e.offsetY) 
    console.log(e.offsetX) 
+   //need logic to determine which triangle quadrant was clicked and add border
+   //need to move this out to a helper
    e.target.classList.add("rightClick");
   });
 
