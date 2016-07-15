@@ -1,12 +1,12 @@
 #mainContain{
-  width:570px;
+  width:5700px;
 }
 
 
 div[class ^="box"]{
-  height:50px;
-  width:50px;
-  border:1px solid #F1F1F1;
+  height:500px;
+  width:500px;
+  border:1px solid #000;
   float:left;
 }
 

@@ -45,14 +45,36 @@ var clicking = function(){
   for (var i = 0;i < $this.enabledBox.length;i++){
 
   $this.enabledBox[i].addEventListener("click", function(e){
-   console.log(e.offsetY) 
-   console.log(e.offsetX) 
+    console.log(e)
+    $this.testClickedArea(e.offsetX, e.offsetY);
+
    //need logic to determine which triangle quadrant was clicked and add border
    //need to move this out to a helper
-   e.target.classList.add("rightClick");
+
   });
 
 
+  }
+
+  this.testClickedArea = function(x,y){
+    // x/y > 1 && (y-250) / x > 1
+    //Y is up and down
+    //X is left to right
+    var NQuad = ((x/y) > 1 && ((x-250) / y) > 1) ? true : false;
+    
+    var SQuad = ((y/x) > 1 && x < 24) ? true : false;
+    
+    var EQuad = ((y/x) > 1 && x < 24) ? true : false;
+    
+    var WQuad = ((y/x) > 1 && x < 24) ? true : false;
+
+      console.log("x: "+x+" y: "+y);
+      console.log("x / y = "+x/y);
+      console.log("y-x / 250 = "+(x-250) / y)
+
+      if(NQuad){
+        console.log('top triangle')
+      }
   }
 
 }
